@@ -1,10 +1,10 @@
 {
   "name": "hotelapi",
-  "version": "1.0.0",
+  "version": "0.1.1",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "mock-server": "json-server --watch mock-data/hotels-data.json",
+    "mock-server": "json-server --routes ./config/routes.json --watch mock-data/hotels-data.json",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

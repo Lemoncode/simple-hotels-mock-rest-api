@@ -90,7 +90,7 @@ _./public/thumbnails_.
 
 # Acknowledge
 
-Original JSON feed extracted from this (apigee/DevJam)[https://github.com/apigee/DevJam/blob/master/Resources/hotels-data.json] Github project.
+Original JSON feed extracted from this [apigee/DevJam](https://github.com/apigee/DevJam/blob/master/Resources/hotels-data.json) Github project.
 
 Mock rest-api based on [json-server](https://github.com/typicode/json-server)
 

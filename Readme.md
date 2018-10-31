@@ -8,11 +8,16 @@ more entries to this local api please check the _Contributors welcome_ section).
 # Why this dev local api?
 
 Hitting real world api's is great, but when a training is on going, it can happen that 
-the internet connectivity has some firewall restrictions (or even no internet connectin available), you need an auth api key per
+the internet connectivity has some firewall restrictions (or even worse no internet connection available), you need an auth api key per
 student, or even worse that the api has been deprecated and  your examples don't work because of that.
 
 The goal of this project is to provide a dumb mock-data api to let trainers / students focus
 on the content of their training (e.g. Front End development), and reduce the external noise going around.
+
+If you are looking for other dumb rest-api's available online, check out:
+
+- JSON Place holder: https://jsonplaceholder.typicode.com/
+- Star wars api: https://swapi.co/
 
 # How it works
 

@@ -56,7 +56,7 @@ http://localhost:3000/api/hotels
 http://localhost:3000/api/hotels/0248058a-27e4-11e6-ace6-a9876eff01b3
 ```
 
-This api support sort, filtering paging... more info: (json-server)[https://github.com/typicode/json-server]
+This api support sort, filtering paging... more info: [json-server](https://github.com/typicode/json-server)
 
 - Get hotels having a rating equal to 3
 
